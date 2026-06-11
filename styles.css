@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 25px;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #ffc1e3, #d9c2ff, #cfefff);
+  color: #4a2c5a;
+}
+
+.container {
+  max-width: 800px;
+  background: rgba(255, 255, 255, 0.75);
+  padding: 24px;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(128, 87, 163, 0.2);
+}
+
+.title {
+  color: #b03a9b;
+}
+
+h2, h3 {
+  color: #6a35a0;
+}
+
+p, li {
+  color: #4a2c5a;
+}
+
+ul {
+  line-height: 1.8;
+}
+
+#currentTime {
+  color: #2f8ecb;
+  font-weight: bold;
+}
